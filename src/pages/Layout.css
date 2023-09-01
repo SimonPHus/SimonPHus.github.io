@@ -1,0 +1,71 @@
+
+/*https://stackoverflow.com/questions/42463263/wrapping-a-react-router-link-in-an-html-button */
+
+* {
+    background-color: #000000;
+}
+
+.Layout {
+    text-align: center;
+    }
+
+.NavBar {
+    position: sticky; top: 0;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 100px;
+    background: #1C2F1F;
+    }
+
+.Route {
+    text-align: center;
+    padding: 5px;
+    background: #1C2F1F;
+    color: #E9FCE7;
+    text-decoration: none;
+    border-radius: 3px;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    font-size: 17px;
+}
+
+.Site {
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+    color: #E9FCE7;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    background: #1C2F1F;
+    text-decoration: none;
+    border-radius: 2px;
+    padding-top: 27px;
+    
+    font-size: 17px;
+}
+
+.Buff {
+    vertical-align: middle;
+    padding: 5px;
+    background: #1C2F1F;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.Route:hover{
+    background: #466c4c;
+    box-shadow: 1px 1px black;
+}
+
+span {
+    align-self: center;
+}
+
+.Stretch {
+    height: 100%;
+}
+
+.Nav {
+    position: sticky;
+}
+
+  

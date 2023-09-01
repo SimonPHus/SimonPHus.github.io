@@ -1,0 +1,85 @@
+.Background {
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(28, 47, 31, 1));
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    padding-bottom: 50px;
+  }
+
+.Hobby{
+    background: #466C4C;
+    margin: 0%;
+    color: #E9FCE7;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.Header{
+    margin: 0%;
+    margin-bottom: 10%;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    color: #E9FCE7;
+    line-height: 30px;
+    font-size: 40px;
+    width: 95%;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Sub {
+    background: #466C4C;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    color: #E9FCE7;
+    line-height: 30px;
+    font-size: 18px;
+    width: 95%;
+    border-right: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-left: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.IndivHobby{
+    color: #E9FCE7;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    display: flex;
+    width: 95%;
+    line-height: 25px;
+    font-size: 18px;
+    margin: 10px;
+    background: #466C4C;
+}
+
+.Title{
+    background: #466C4C;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    color: #E9FCE7;
+    font-size: 27px;
+    line-height: 40px;
+}
+
+.Paragraph{
+    color: #E9FCE7;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    width: 50%;
+    background: #466C4C;
+}
+
+.Image{
+    color: #E9FCE7;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    width: auto;
+    height: auto;
+}
+
+.Text {
+    display: flex;
+    flex-direction: column;
+}
+
+.horizontal-line {
+    border-top: 5px solid black;
+  }

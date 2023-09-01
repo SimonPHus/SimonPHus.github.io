@@ -1,0 +1,74 @@
+.Background {
+  background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(28, 47, 31, 1));
+  margin: 0%;
+  padding: 0%;
+  border: 0%;
+  padding-bottom: 50px;
+}
+
+.Home {
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(28, 47, 31, 1));
+    padding-bottom: 50px;
+  }
+
+.Intro {
+  text-align: center;
+  font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif; 
+  color: #E9FCE7;
+  margin-top: 0%;
+  margin-bottom: 20px;
+  background: #466C4C;
+  font-size: 70px;
+}
+
+.Image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  background: #466C4C;
+  max-width: 40%;
+  height: auto;
+}
+
+.Cover {
+  position: relative;
+  font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  line-height: 30px;
+  font-size: 18px;
+  color: #E9FCE7;
+  width: 95%;
+  border: 10px;
+  margin: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: #466C4C;
+  font-size: 17px;
+  text-align: justify;
+  display: flex;
+  
+}
+
+.grad-black-black {
+  background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, .8), rgba(0, 0, 0, .75));
+  height: 100vh;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Article {
+  margin-left: 20px;
+  margin-right: 20px;
+  background: #466C4C;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+body{
+  margin: 0px;
+}
+
+.horizontal-line {
+  border-top: 5px solid black;
+}

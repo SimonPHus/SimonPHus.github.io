@@ -1,0 +1,95 @@
+.Background {
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(28, 47, 31, 1));
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    padding-bottom: 50px;
+}
+
+.Article {
+    margin-left: 10%;
+    margin-right: 10%;
+    background: #466C4C;
+    color: #E9FCE7;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.Header {
+    margin: 0%;
+    margin-bottom: 10%;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    color: #E9FCE7;
+    background: #466C4C;
+    line-height: 30px;
+    font-size: 40px;
+    width: 95%;
+    border: 10px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.IndivHobby{
+    color: #E9FCE7;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #466C4C;
+    width: 95%;
+    line-height: 30px;
+    font-size: 18px;
+    border: 10px;
+    margin: 10px;
+}
+
+.Title{
+    margin: 0%;
+    margin-bottom: 10%;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    color: #E9FCE7;
+    background: #466C4C;
+    line-height: 30px;
+    font-size: 40px;
+    width: 95%;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Paragraph{
+    color: #E9FCE7;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    width: 50%;
+    background: #466C4C;
+}
+
+.Image{
+    color: #E9FCE7;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    background: #466C4C;
+    padding: 5px;
+}
+
+.Text {
+    display: flex;
+    flex-direction: column;
+    background: #466C4C;
+}
+
+.Contact {
+    text-align: center;
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif; 
+    color: #E9FCE7;
+    margin-top: 0%;
+    background: #466C4C;
+    padding-bottom: 20px;
+}
+
+.horizontal-line {
+    border-top: 5px solid black;
+  }
