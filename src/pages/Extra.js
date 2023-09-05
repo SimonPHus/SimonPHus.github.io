@@ -57,6 +57,8 @@ const Extra = () => {
           <img src={spark} className="Image" alt="Panel Shot" />
         </div>
 
+        <div className="horizontal-line"></div>
+
         <div className = "IndivHobby">
           <div className = "Text">
           <div className="Title">Research Principles Micro-Certification</div>
