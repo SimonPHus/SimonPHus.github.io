@@ -20,8 +20,8 @@ const Hobby = () => {
         <div className = "IndivHobby">
           <div className = "Text">
           <div className="Title">Engineering</div>
-          <p1 className="Paragraph"> Wasn't sure this counted as a hobby, but considering the amount I do outside of school or work, I thought
-          to include it. I love the history of the occupation and the pursuit of perfecting processes of creation and development. 
+          <p1 className="Paragraph"> Considering the amount of engineering I do outside of school or work, I thought
+          to include it as a hobby. I love the history of the occupation and the pursuit of perfecting processes of creation and development. 
           Applying mathematics and physics principles to improve global quality of life is a profession I am excited to get into.
           Pictured: a cool graph I generated in my numerical methods class.</p1>
           </div>
@@ -59,9 +59,9 @@ const Hobby = () => {
         <div className = "IndivHobby">
           <div className = "Text">
           <div className="Title">Cooking</div>
-          <p1 className="Paragraph"> As of writing this paragraph, my cooking skills are quite poor. I am trying to get better, and am
+          <p1 className="Paragraph"> As of writing this paragraph, my cooking skills are admittedly quite poor. I am trying to get better, and am
           making steady progress. I very much enjoy cooking meals together with my girlfriend, and sometimes when I experiment on my 
-          own the food is actually edible. </p1>
+          own I create something that is enjoyable. </p1>
           </div>
           <img src={cooking} className="Image" alt="Food" />
         </div>

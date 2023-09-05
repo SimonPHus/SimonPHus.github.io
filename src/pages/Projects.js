@@ -145,8 +145,8 @@ const Projects = () => {
           Based off of three research papers outlining this technology, I
           set up a MATLAB Simuation using the PDE library in MATLAB along with a
           3D prototype I created in SolidWorks. I was also excited to be able to learn how to generate an
-          analtical solution for heat transfer using an analogus RC Circuit in LTspice.
-          I Created a report and presented my findings for future company use.<br></br>&nbsp;</p3>
+          analytical solution for heat transfer using an analogus RC Circuit in LTspice.
+          I created a report and presented my findings for future company use.<br></br>&nbsp;</p3>
           <div className = "Images">
             <img src={cbt1} className="Image" alt="CBT 1" />
             <img src={cbt2} className="Image" alt="CBT 2" />
